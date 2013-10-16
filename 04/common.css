@@ -55,5 +55,6 @@ blockquote p:last-child {
 	padding: 0; 
 }
 
+h1 { font-family:"Cooper Black Italic", Georgia, serif; font-weight:normal; font-style:italic; color: #2a4; font-size: 6em; }
 
-
+h2 { font-family:"Proxima Nova Regular", 'Helvetica Neue', Arial, Helvetica, sans-serif; font-size-adjust:0.488; font-weight:normal; font-style:normal; }
