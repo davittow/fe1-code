@@ -8,7 +8,7 @@ header { padding: 20px; background-color: #ecc; }
 
 section { background-color: #fff; overflow: hidden; margin: 10px 0; }
 section .content, section .sidebar { float: right; margin: 0; }
-section h1 { font-size: 1.2em; }
+section h2 { font-size: 1.2em; }
 
 section .content { width: 69%; background-color: #dff; margin-left: 1%; }
 section .sidebar { width: 30%; background-color: #ccf; }
